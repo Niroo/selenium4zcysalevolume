@@ -2,10 +2,12 @@
 using selenuim and bs4 to fetch deal-records on www.zcygov.cn (Just for study)
 
 
-##USEING:
+## USEING:
 1.put scrap.py and url.txt in same directory
 
 ![put file in samepath](https://github.com/Niroo/selenium4zcysalevolume/blob/master/1.jpg)
+
+
 2.double-click scrap.py
 
 
